@@ -145,11 +145,24 @@ const talha = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=talhasajid849&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=talhasajid849&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhasajid849&layout=compact&langs_count=8&theme=tokyonight"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talhasajid849&layout=compact&theme=radical&hide_border=true)
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=talhasajid849&theme=radical&hide_border=true)
+<div align="center">
+  
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=talhasajid849&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=talhasajid849&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
 
 </div>
 
@@ -157,13 +170,24 @@ const talha = {
 
 ## 🏆 Achievements
 
-```
-✅ 250+ LeetCode Problems Solved
-✅ 4+ Production-Ready Applications Built
-✅ MERN Stack Certified Developer
-✅ Strong Foundation in DSA & Algorithms
-✅ System Design & Architecture Knowledge
-```
+<div align="center">
+
+| 💻 Coding | 🎯 Problem Solving | 🚀 Projects | 🎓 Learning |
+|-----------|-------------------|-------------|-------------|
+| **250+** LeetCode Problems | **Strong** DSA Foundation | **4+** Production Apps | **MERN Stack** Certified |
+| JavaScript & TypeScript | Algorithms & Data Structures | Full Stack Development | System Design Knowledge |
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=talhasajid849&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
@@ -193,22 +217,28 @@ I'm actively seeking opportunities where I can:
 
 ---
 
-## 📝 Latest Blog Posts
+## 📝 Latest Activity
 
-<!-- BLOG-POST-LIST:START -->
-- [Building a Real-Time Chat Application with Socket.io](link)
-- [5 Advanced TypeScript Tips for React Developers](link)
-- [Optimizing PostgreSQL Queries in Node.js Applications](link)
-- [My Journey to Solving 250 LeetCode Problems](link)
-<!-- BLOG-POST-LIST:END -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
-## 💭 Quote of the Day
+## 💭 Random Dev Quote
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Technologies I Work With Daily
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,mongodb,postgres,prisma,redis,tailwind,html,css,git,github,vscode,postman,firebase,vercel&perline=10" />
 
 </div>
 
@@ -220,15 +250,9 @@ I'm actively seeking opportunities where I can:
 
 **Made with ❤️ and lots of ☕ by Talha Sajid**
 
-![Snake animation](https://github.com/talhasajid849/talhasajid849/blob/output/github-contribution-grid-snake.svg)
+![](https://komarev.com/ghpvc/?username=talhasajid849&style=for-the-badge&color=blueviolet)
 
 </div>
-
----
-
-## 📈 Activity Graph
-
-[![Talha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=talhasajid849&theme=react-dark&hide_border=true)](https://github.com/talhasajid849)
 
 ---
 
@@ -237,5 +261,22 @@ I'm actively seeking opportunities where I can:
 **💬 Ask me about:** React, Next.js, Node.js, TypeScript, MongoDB, PostgreSQL, System Design
 
 **⚡ Fun fact:** I debug with console.log() and I'm not ashamed! 😄
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Profile Summary
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talhasajid849&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=talhasajid849&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=talhasajid849&theme=tokyonight)
 
 </div>
