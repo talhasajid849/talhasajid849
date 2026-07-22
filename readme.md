@@ -1,19 +1,19 @@
 <div align="center">
 
-# 👋 Hi, I'm Talha Sajid
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2FF&height=200&section=header&text=Talha%20Sajid&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20MERN%20Engineer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=55&descSize=18" />
 
-### 🚀 Full Stack MERN Engineer | Problem Solver | Builder of Scalable Web Applications
+<a href="https://www.linkedin.com/in/talha-sajid-swe" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/TalhaSajid/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://talha-sajid-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:rts849@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/talha-sajid-42677035a)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-username)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rts849@outlook.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;MERN+Stack+%7C+Next.js+%7C+TypeScript;250%2B+LeetCode+problems+solved;Open+to+remote+%26+freelance+work" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=talhasajid849&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=talhasajid849&color=6C63FF&style=flat-square&label=Profile+Views)
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00C2FF&height=3" />
 
 ## 🎯 About Me
 
@@ -23,173 +23,121 @@ const talha = {
     education: "BS Information Technology @ Virtual University",
     currentFocus: "Building production-ready web applications",
     openTo: ["Remote Opportunities", "Freelance Projects", "Collaborations"],
-    funFact: "I've solved 250+ LeetCode problems and still counting! 💪"
+    funFact: "Solved 250+ LeetCode problems and still counting 💪"
 };
 ```
 
-💡 **Passionate about:** Creating seamless user experiences, writing clean code, and solving complex problems with simple solutions.
+- 💡 **Passionate about** creating seamless user experiences, writing clean code, and solving complex problems with simple solutions.
+- 🌱 **Currently learning** advanced system design, microservices architecture, and cloud technologies.
+- 🎓 **Certified** MERN Stack Developer by Dev Weekend.
 
-🌱 **Currently learning:** Advanced System Design, Microservices Architecture, and Cloud Technologies
-
-🎓 **Certified:** MERN Stack Developer by Dev Weekend
-
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00C2FF&height=3" />
 
 ## 🛠️ Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+**Frontend**
+<br />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,tailwind,html,css&perline=8" />
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+**Backend**
+<br />
+<img src="https://skillicons.dev/icons?i=nodejs,express,socketio&perline=8" />
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+**Databases**
+<br />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,prisma&perline=8" />
 
----
+**Tools & Platforms**
+<br />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,firebase&perline=8" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00C2FF&height=3" />
 
 ## 🚀 Featured Projects
 
-### 🔬 [Mobile Bio Lab Management System](link-to-repo)
-> **Enterprise-grade lab management platform with advanced features**
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/talhasajid849/SmartLabX-Mobile-Bio-Lab-Final-Year-Project"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=talhasajid849&repo=SmartLabX-Mobile-Bio-Lab-Final-Year-Project&theme=tokyonight&hide_border=true" /></a>
+<div align="center">🔬 Mobile Bio Lab Management System · <a href="https://smart-lab-x-mobile-bio-lab-final-ye.vercel.app">Live Demo ↗</a></div>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/talhasajid849/Multivendor-E-Commrace-Project"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=talhasajid849&repo=Multivendor-E-Commrace-Project&theme=tokyonight&hide_border=true" /></a>
+<div align="center">🛒 Multi-Vendor E-Commerce Marketplace · <a href="https://multivendor-e-commrace-project.vercel.app">Live Demo ↗</a></div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/talhasajid849/MERN-stack-Estate"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=talhasajid849&repo=MERN-stack-Estate&theme=tokyonight&hide_border=true" /></a>
+<div align="center">🏠 Real Estate Property Platform</div>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/talhasajid849/LMS-Project-Next-with-TypeScript"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=talhasajid849&repo=LMS-Project-Next-with-TypeScript&theme=tokyonight&hide_border=true" /></a>
+<div align="center">📚 Learning Management System 🚧</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/talhasajid849/Honk_Hire_Co"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=talhasajid849&repo=Honk_Hire_Co&theme=tokyonight&hide_border=true" /></a>
+<div align="center">🚗 Honk Hire Co · <a href="https://honk-hire-co.vercel.app">Live Demo ↗</a></div>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/talhasajid849/talha_sajid_portfolio"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=talhasajid849&repo=talha_sajid_portfolio&theme=tokyonight&hide_border=true" /></a>
+<div align="center">💼 Personal Portfolio · <a href="https://talha-sajid-portfolio.vercel.app">Live Demo ↗</a></div>
+</td>
+</tr>
+</table>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-- 🔐 Role-based authentication (Admin, Technician, Patient)
-- 📅 Real-time lab reservation system
-- 📊 Interactive dashboards with Chart.js
-- 📱 QR code & BLE integration for equipment tracking
-- 📄 Automated PDF report generation
-
-[🔗 Live Demo](link) | [📖 Documentation](link)
-
----
-
-### 🛒 [Multi-Vendor E-Commerce Marketplace](link-to-repo)
-> **Full-featured marketplace with real-time capabilities**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-
-- 💬 Real-time chat system for vendor-customer communication
-- 🛍️ Complete order management and tracking
-- 👥 Separate dashboards for vendors and customers
-- 💳 Secure payment gateway integration
-- 📧 Email notifications for order updates
-
-[🔗 Live Demo](link) | [📖 Documentation](link)
-
----
-
-### 🏠 [Real Estate Property Platform](link-to-repo)
-> **Modern property listing platform with advanced search**
-
-![MERN](https://img.shields.io/badge/MERN-Stack-green?style=flat-square)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-- 🔍 Advanced property search and filtering
-- 🖼️ Multi-image upload with Cloudinary optimization
-- 🔐 Secure JWT-based authentication
-- 📱 Fully responsive design
-- ⭐ Property favorites and saved searches
-
-[🔗 Live Demo](link) | [📖 Documentation](link)
-
----
-
-### 📚 [Learning Management System](link-to-repo) `🚧 In Progress`
-> **Comprehensive LMS with course management**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-
-- 📖 Course creation and enrollment system
-- 👨‍🏫 Role-based dashboards (Instructor, Student, Admin)
-- 🎥 Video content delivery
-- ✍️ Quiz and assignment management
-- 📊 Progress tracking and analytics
-
-[📖 Coming Soon](link)
-
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00C2FF&height=3" />
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=talhasajid849&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhasajid849&layout=compact&langs_count=8&theme=tokyonight"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=talhasajid849&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=talhasajid849&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=talhasajid849&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=talhasajid849&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=talhasajid849&layout=compact&langs_count=8&theme=default&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhasajid849&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=talhasajid849&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=talhasajid849&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=talhasajid849&theme=tokyonight&hide_border=true" />
+</picture>
 
 </div>
 
 <div align="center">
-  
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=talhasajid849&theme=tokyo-night&hide_border=true&area=true)
+
+### 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/talhasajid849/talhasajid849/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/talhasajid849/talhasajid849/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/talhasajid849/talhasajid849/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=talhasajid849&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=talhasajid849&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| 💻 Coding | 🎯 Problem Solving | 🚀 Projects | 🎓 Learning |
-|-----------|-------------------|-------------|-------------|
-| **250+** LeetCode Problems | **Strong** DSA Foundation | **4+** Production Apps | **MERN Stack** Certified |
-| JavaScript & TypeScript | Algorithms & Data Structures | Full Stack Development | System Design Knowledge |
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=talhasajid849&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00C2FF&height=3" />
 
 ## 💼 What I'm Looking For
 
@@ -198,85 +146,22 @@ I'm actively seeking opportunities where I can:
 - 🚀 Build scalable, production-ready applications
 - 🤝 Collaborate with talented engineering teams
 - 📈 Grow my skills in system design and architecture
-- 🌍 Work on impactful products that solve real problems
 - 💡 Contribute to open-source projects
 
-**Available for:** Full-time roles, Contract work, Freelance projects, Open-source collaborations
-
----
-
-## 📫 Let's Connect!
+**Available for:** Full-time roles · Contract work · Freelance projects · Open-source collaborations
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/talha-sajid-42677035a)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rts849@outlook.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Follow_Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-username)
+### 📫 Let's Connect
 
-</div>
+<a href="https://www.linkedin.com/in/talha-sajid-swe" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/TalhaSajid/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Follow_Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="mailto:rts849@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
----
+<br /><br />
 
-## 📝 Latest Activity
+**⭐ If you like my work, consider giving a star to my repositories!**
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Technologies I Work With Daily
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,mongodb,postgres,prisma,redis,tailwind,html,css,git,github,vscode,postman,firebase,vercel&perline=10" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🌟 If you like my work, consider giving a ⭐ to my repositories!
-
-**Made with ❤️ and lots of ☕ by Talha Sajid**
-
-![](https://komarev.com/ghpvc/?username=talhasajid849&style=for-the-badge&color=blueviolet)
-
-</div>
-
----
-
-<div align="center">
-
-**💬 Ask me about:** React, Next.js, Node.js, TypeScript, MongoDB, PostgreSQL, System Design
-
-**⚡ Fun fact:** I debug with console.log() and I'm not ashamed! 😄
-
-</div>
-
----
-
-<div align="center">
-
-### 📈 Profile Summary
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talhasajid849&theme=tokyonight)
-
-</div>
-
-<div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=talhasajid849&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=talhasajid849&theme=tokyonight)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=100&section=footer" />
 
 </div>
