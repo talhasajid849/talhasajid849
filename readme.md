@@ -59,38 +59,35 @@ const talha = {
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/talhasajid849/SmartLabX-Mobile-Bio-Lab-Final-Year-Project"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=talhasajid849&repo=SmartLabX-Mobile-Bio-Lab-Final-Year-Project&theme=tokyonight&hide_border=true" /></a>
-<div align="center">🔬 Mobile Bio Lab Management System · <a href="https://smart-lab-x-mobile-bio-lab-final-ye.vercel.app">Live Demo ↗</a></div>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/talhasajid849/Multivendor-E-Commrace-Project"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=talhasajid849&repo=Multivendor-E-Commrace-Project&theme=tokyonight&hide_border=true" /></a>
-<div align="center">🛒 Multi-Vendor E-Commerce Marketplace · <a href="https://multivendor-e-commrace-project.vercel.app">Live Demo ↗</a></div>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/talhasajid849/MERN-stack-Estate"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=talhasajid849&repo=MERN-stack-Estate&theme=tokyonight&hide_border=true" /></a>
-<div align="center">🏠 Real Estate Property Platform</div>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/talhasajid849/LMS-Project-Next-with-TypeScript"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=talhasajid849&repo=LMS-Project-Next-with-TypeScript&theme=tokyonight&hide_border=true" /></a>
-<div align="center">📚 Learning Management System 🚧</div>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/talhasajid849/Honk_Hire_Co"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=talhasajid849&repo=Honk_Hire_Co&theme=tokyonight&hide_border=true" /></a>
-<div align="center">🚗 Honk Hire Co · <a href="https://honk-hire-co.vercel.app">Live Demo ↗</a></div>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/talhasajid849/talha_sajid_portfolio"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=talhasajid849&repo=talha_sajid_portfolio&theme=tokyonight&hide_border=true" /></a>
-<div align="center">💼 Personal Portfolio · <a href="https://talha-sajid-portfolio.vercel.app">Live Demo ↗</a></div>
-</td>
-</tr>
-</table>
+### 🔬 [Mobile Bio Lab Management System](https://github.com/talhasajid849/SmartLabX-Mobile-Bio-Lab-Final-Year-Project)
+> Web-based platform for SmartLabX Laboratories enabling students, researchers, and technicians to register, reserve lab access, and analyze biological sample data.
+
+`Next.js` `PostgreSQL` `Prisma` `Redis` · [Live Demo ↗](https://smart-lab-x-mobile-bio-lab-final-ye.vercel.app)
+
+### 🛒 [Multi-Vendor E-Commerce Marketplace](https://github.com/talhasajid849/Multivendor-E-Commrace-Project)
+> Full-featured marketplace with real-time chat, order tracking, and secure payments.
+
+`MongoDB` `Express` `React` `Socket.io` · [Live Demo ↗](https://multivendor-e-commrace-project.vercel.app)
+
+### 🏠 [Real Estate Property Platform](https://github.com/talhasajid849/MERN-stack-Estate)
+> Modern real estate marketplace with advanced search and image optimization.
+
+`MERN` `Cloudinary` `TailwindCSS`
+
+### 📚 [Learning Management System](https://github.com/talhasajid849/LMS-Project-Next-with-TypeScript) `🚧 In Progress`
+> Comprehensive LMS with course management, role-based dashboards, and progress tracking.
+
+`Next.js` `TypeScript`
+
+### 🚗 [Honk Hire Co](https://github.com/talhasajid849/Honk_Hire_Co)
+> Vehicle hire platform built with a modern TypeScript stack.
+
+`TypeScript` · [Live Demo ↗](https://honk-hire-co.vercel.app)
+
+### 💼 [Personal Portfolio](https://github.com/talhasajid849/talha_sajid_portfolio)
+> My personal developer portfolio showcasing projects and experience.
+
+`JavaScript` · [Live Demo ↗](https://talha-sajid-portfolio.vercel.app)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00C2FF&height=3" />
 
