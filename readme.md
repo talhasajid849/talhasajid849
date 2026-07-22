@@ -96,17 +96,6 @@ const talha = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=talhasajid849&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=talhasajid849&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=talhasajid849&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=talhasajid849&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=talhasajid849&layout=compact&langs_count=8&theme=default&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhasajid849&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=talhasajid849&theme=tokyonight&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=talhasajid849&theme=default&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=talhasajid849&theme=tokyonight&hide_border=true" />
@@ -123,14 +112,6 @@ const talha = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/talhasajid849/talhasajid849/output/github-contribution-grid-snake.svg" />
   <img src="https://raw.githubusercontent.com/talhasajid849/talhasajid849/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
-</div>
-
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=talhasajid849&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
